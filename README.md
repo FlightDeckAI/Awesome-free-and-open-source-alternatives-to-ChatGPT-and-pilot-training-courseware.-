@@ -8,6 +8,7 @@ A collection of language model projects, local chat interfaces, and aviation too
 
 - [Language model projects](#language-model-projects)
 - [Aviation tools](#aviation-tools)
+- [Contributing](CONTRIBUTING.md)
 
 ## Language model projects
 
